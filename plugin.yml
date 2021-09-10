@@ -1,0 +1,8 @@
+name: RealTimeBossBar
+version: 1.0
+author: Kato14123
+main: me.Kato14123.RealTimeBossBar.Main
+description: This is plugin that will display count down with real time as server
+
+commands:
+    rtbb:

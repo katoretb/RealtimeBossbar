@@ -1,0 +1,9 @@
+reload:
+    message:
+        - "&aRealTimeBossBar reloaded"
+        
+        
+message:
+    event:
+        -"test"
+        -"test2"
